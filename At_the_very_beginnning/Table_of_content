@@ -1,3 +1,3 @@
 hello.py: About variables, function, input strings and numbers, print them out.
 get input from users: Now start to interact with our users, by using input function, we shall get some info from people except the programmer.
-mad libs game: 
+mad libs game: also input, a funny game which people make a story together by providing key words.
