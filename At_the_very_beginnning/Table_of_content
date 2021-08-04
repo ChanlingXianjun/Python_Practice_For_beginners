@@ -3,3 +3,5 @@ get input from users: Now start to interact with our users, by using input funct
 mad libs game: also input, a funny game which people make a story together by providing key words.
 guessing numbers: guess a number btw 1 and 100, by using if else, true false variables.
 FizzBuzz: PC reports number and replaces some with strings.
+list: using list, indexing and operating variables in the list, function anout list.
+
